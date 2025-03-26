@@ -6,7 +6,7 @@ Welcome to LMS, a simple yet powerful library management system. This applicatio
 
 - 📖 View Books in List or Grid Format – Fetch books from a free API and display them in a list or grid view.
 
-![alt text](image-1.png)
+![alt text](image-11.png)
 
 - 🖼️ Book Details – Each book includes a thumbnail, title, authors, and publisher.
 
@@ -18,7 +18,7 @@ Welcome to LMS, a simple yet powerful library management system. This applicatio
 
 - 🔄 Sorting Options – Sort books alphabetically by title or by oldest to newest.
 
-![alt text](image-4.png)
+![alt text](image-12.png)
 
 - 🎛 Toggle View Mode – Switch between list view and grid view with a button.
 
