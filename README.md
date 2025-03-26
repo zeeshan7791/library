@@ -6,17 +6,31 @@ Welcome to LMS, a simple yet powerful library management system. This applicatio
 
 - 📖 View Books in List or Grid Format – Fetch books from a free API and display them in a list or grid view.
 
+![alt text](image-1.png)
+
 - 🖼️ Book Details – Each book includes a thumbnail, title, authors, and publisher.
+
+![alt text](image-2.png)
 
 - 🔍 Search Functionality – Easily filter books based on title or author.
 
+![alt text](image-3.png)
+
 - 🔄 Sorting Options – Sort books alphabetically by title or by oldest to newest.
+
+![alt text](image-4.png)
 
 - 🎛 Toggle View Mode – Switch between list view and grid view with a button.
 
+
+
 - 📌 Book Details Page – Click on a book to view detailed information on a separate page.
 
+![alt text](image-5.png)
+
 - 📱 Responsive Design – Works seamlessly on all screen sizes, from desktops to mobile devices.
+
+![alt text](image-6.png)
 
 ## 🛠️ How to Use
 
@@ -37,4 +51,7 @@ If you find areas for improvement, have bug fixes, or want to add more features,
 
 #
 
-## 🎉 Enjoy the App! 🧑‍💻 Happy Coding!
+
+## 🎉 Enjoy the App!
+ https://shimmering-quokka-6c8e6b.netlify.app/ 
+ 
