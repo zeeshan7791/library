@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Library Management System</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="library-container">
+        <div class="navContainer">
+
+            <h1 >Library</h1>
+            <input type="Search" placeholder="Search" id="seach-input">
+            <select name="" id="sort-books"  >
+                <option value="" selected  disabled>Sort by</option>
+                <option value="name">Title</option>
+                <option value="oldToNew">Oldest to Newest</option>
+            </select>
+            <button id="view"># Grid View</button>
+        </div>
+      
+        <div class="library-books" id="books-container">
+        </div>
+    </div>
+    
+    <script src="script.js"></script>
+</body>
+</html>

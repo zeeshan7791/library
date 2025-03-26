@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+  h3{
+    text-align: center;
+    margin: 20px;
+  }
+  .library-books {
+    display: flex;
+    height: 80vh;
+    justify-content: center;
+    align-items: center;
+  }
+  .book-details{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    color: rgb(92, 76, 76);
+  }
+  .book-details img {
+  
+
+  width: 400px;
+  height: 350px;
+  border-radius: 10px;
+ 
+   
+ 
+
+  }
