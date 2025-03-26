@@ -53,13 +53,13 @@ changeDisplayView.addEventListener("click", () => {
     currentDisplay = "block"; // Change to list view
     allBooksContainer.style.display = currentDisplay;
 
-    changeDisplayView.innerText = "- List View";
+    changeDisplayView.innerText = "# Grid View";
   } else {
     currentDisplay = "flex"; 
     allBooksContainer.style.display = currentDisplay;
     
 
-    changeDisplayView.innerText = "# Grid View";
+    changeDisplayView.innerText = "- List View";
   }
 });
 

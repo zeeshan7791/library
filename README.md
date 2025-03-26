@@ -22,9 +22,9 @@ Welcome to LMS, a simple yet powerful library management system. This applicatio
 
 - 🎛 Toggle View Mode – Switch between list view and grid view with a button.
 
-![alt text](image-7.png)
+![alt text](image-9.png)
 
-![alt text](image-5.png)
+![alt text](image-10.png)
 
 - 📌 Book Details Page – Click on a book to view detailed information on a separate page.
 
