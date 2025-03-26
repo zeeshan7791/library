@@ -55,5 +55,5 @@ If you find areas for improvement, have bug fixes, or want to add more features,
 
 
 ## 🎉 Enjoy the App!
- https://shimmering-quokka-6c8e6b.netlify.app/ 
+https://lms-cohort.netlify.app/
  
